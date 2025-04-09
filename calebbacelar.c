@@ -2,5 +2,5 @@
 
 intmain(){
 printf("Caleb Bacelar.\n");
-return0;
+return 0;
 }
