@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-intmain(){
+int main(){
 printf("Caleb Bacelar.\n");
 return 0;
 }
